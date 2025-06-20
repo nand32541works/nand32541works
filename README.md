@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nand32541works&label=Profile%20views&color=0e75b6&style=flat" alt="nand32541works" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nand32541works" alt="nand32541works" /></a> </p>
-
 - 🔭 I’m currently working on **HTML, CSS, JavaScript, and other UI/UX Tools**
 
 - 🌱 I’m currently learning **React.js, Sketch**
@@ -13,7 +11,7 @@
 
 - 🤝 I’m looking for help with **UI/UX Problems, HTML and CSS codes**
 
-- 👨‍💻 All of my projects are available at https://github.com/nand32541works
+- 👨‍💻 All of my projects are available at [Github](Github)
 
 - 📫 How to reach me **nandakishorejana780@gmail.com**
 
