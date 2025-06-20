@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **UI/UX Problems, HTML and CSS codes**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at https://github.com/nand32541works
 
 - 📫 How to reach me **nandakishorejana780@gmail.com**
 
